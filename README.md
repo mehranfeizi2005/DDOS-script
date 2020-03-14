@@ -10,3 +10,6 @@ Touch All commands will be displayed
 
 Click here to download that command
 git clone https://github.com/mehranfeizi2005/DDOS-script.git
+
+
+Hope you like this tool
